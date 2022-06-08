@@ -1,0 +1,318 @@
+{
+  "especie": [
+    {
+      "id": 1,
+      "nomeCientifico": "Felis catus",
+      "nomePop": "Gato",
+      "habitat": "Escassos bosques de coníferas ou caducifólias da Europa e da Ásia.",
+      "familia": "Felídeos",
+      "ordem": "Carnívoros"
+    },
+    {
+      "id": 2,
+      "nomeCientifico": "Canis lupus familiaris",
+      "nomePop": "Cachorro",
+      "habitat": "Predominantemente centros urbanos com casas, apartamentos etc.",
+      "familia": "Canídeos",
+      "ordem": "Carnívoros"
+    },
+    {
+      "id": 3,
+      "nomeCientifico": "Ornithorhynchus anatinus",
+      "nomePop": "Onitorrinco",
+      "habitat": "Principalmente na costa leste da Austrália, desde o extremo norte do estado de Queensland até a ilha do estado da Tasmânia.",
+      "familia": "Ornithorhynchidae",
+      "ordem": "Monotremata"
+    },
+    {
+      "id": 4,
+      "nomeCientifico": "Anatidae",
+      "nomePop": "Pato",
+      "habitat": "Corpos d'água, como margens de rios, lagos, pantanais e áreas alagadas.",
+      "familia": "Anatidae",
+      "ordem": "Anseriformes"
+    },
+    {
+      "id": 5,
+      "nomeCientifico": "Nymphicus hollandicus",
+      "nomePop": "Calopsita",
+      "habitat": "Nativa da Austrália, na Oceania.",
+      "familia": "Cacatua",
+      "ordem": "Psittaciformes"
+    }
+  ],
+  "jaula": [
+    {
+      "cod": 1,
+      "area": 10.00
+    },
+    {
+      "cod": 2,
+      "area": 10.00
+    },
+    {
+      "cod": 3,
+      "area": 10.00
+    },
+    {
+      "cod": 4,
+      "area": 10.00
+    },
+    {
+      "cod": 5,
+      "area": 10.00
+    },
+    {
+      "cod": 6,
+      "area": 10.00
+    },
+    {
+      "cod": 7,
+      "area": 10.00
+    },
+    {
+      "cod": 8,
+      "area": 10.00
+    },
+    {
+      "cod": 9,
+      "area": 10.00
+    },
+    {
+      "cod": 10,
+      "area": 10.00
+    }
+  ],
+  "especime": [
+    {
+      "numSerie": 2,
+      "apelido": "Juninho",
+      "especie_id": 1,
+      "jaula_id": 1
+    },
+    {
+      "numSerie": 4,
+      "apelido": "Mexilhãozinho",
+      "especie_id": 1,
+      "jaula_id": 1
+    },
+    {
+      "numSerie": 6,
+      "apelido": "fujão",
+      "especie_id": 1,
+      "jaula_id": 2
+    },
+    {
+      "numSerie": 8,
+      "apelido": "",
+      "especie_id": 1,
+      "jaula_id": 2
+    },
+    {
+      "numSerie": 10,
+      "apelido": "",
+      "especie_id": 2,
+      "jaula_id": 3
+    },
+    {
+      "numSerie": 12,
+      "apelido": "",
+      "especie_id": 2,
+      "jaula_id": 3
+    },
+    {
+      "numSerie": 14,
+      "apelido": "",
+      "especie_id": 2,
+      "jaula_id": 4
+    },
+    {
+      "numSerie": 16,
+      "apelido": "",
+      "especie_id": 2,
+      "jaula_id": 4
+    },
+    {
+      "numSerie": 18,
+      "apelido": "",
+      "especie_id": 3,
+      "jaula_id": 5
+    },
+    {
+      "numSerie": 20,
+      "apelido": "",
+      "especie_id": 3,
+      "jaula_id": 5
+    },
+    {
+      "numSerie": 22,
+      "apelido": "",
+      "especie_id": 3,
+      "jaula_id": 6
+    },
+    {
+      "numSerie": 24,
+      "apelido": "",
+      "especie_id": 3,
+      "jaula_id": 6
+    },
+    {
+      "numSerie": 26,
+      "apelido": "",
+      "especie_id": 4,
+      "jaula_id": 7
+    },
+    {
+      "numSerie": 28,
+      "apelido": "",
+      "especie_id": 4,
+      "jaula_id": 7
+    },
+    {
+      "numSerie": 30,
+      "apelido": "",
+      "especie_id": 4,
+      "jaula_id": 8
+    },
+    {
+      "numSerie": 32,
+      "apelido": "",
+      "especie_id": 4,
+      "jaula_id": 8
+    },
+    {
+      "numSerie": 34,
+      "apelido": "",
+      "especie_id": 5,
+      "jaula_id": 9
+    },
+    {
+      "numSerie": 36,
+      "apelido": "",
+      "especie_id": 5,
+      "jaula_id": 9
+    },
+    {
+      "numSerie": 38,
+      "apelido": "",
+      "especie_id": 5,
+      "jaula_id": 10
+    },
+    {
+      "numSerie": 40,
+      "apelido": "",
+      "especie_id": 5,
+      "jaula_id": 10
+    }
+  ],
+  "zelador": [
+    {
+      "id": 1,
+      "mat": "628ecdcbca9a6c3d1f29ca62",
+      "nome": "Sidney Roberto de Sousa",
+      "dtNasc": "1898-03-12"
+    },
+    {
+      "id": 2,
+      "mat": "628ecdeb3cb28f9039506ee2",
+      "nome": "Larissa Quirino Lopes",
+      "dtNasc": "2002-10-17"
+    },
+    {
+      "id": 3,
+      "mat": "628ecdefb2160596556f3c59",
+      "nome": "Maria Cristini",
+      "dtNasc": "1975-06-29"
+    },
+    {
+      "id": 4,
+      "mat": "628ecdf289b981c9624e74ef",
+      "nome": "José Vitor",
+      "dtNasc": "1980-03-19"
+    }
+  ],
+  "intercalations": [
+    {
+      "zelador_id": 1,
+      "jaula_id": 1
+    },
+    {
+      "zelador_id": 2,
+      "jaula_id": 1
+    },
+    {
+      "zelador_id": 3,
+      "jaula_id": 2
+    },
+    {
+      "zelador_id": 4,
+      "jaula_id": 2
+    },
+    {
+      "zelador_id": 1,
+      "jaula_id": 3
+    },
+    {
+      "zelador_id": 2,
+      "jaula_id": 3
+    },
+    {
+      "zelador_id": 3,
+      "jaula_id": 4
+    },
+    {
+      "zelador_id": 4,
+      "jaula_id": 4
+    },
+    {
+      "zelador_id": 1,
+      "jaula_id": 5
+    },
+    {
+      "zelador_id": 2,
+      "jaula_id": 5
+    },
+    {
+      "zelador_id": 3,
+      "jaula_id": 6
+    },
+    {
+      "zelador_id": 4,
+      "jaula_id": 6
+    },
+    {
+      "zelador_id": 1,
+      "jaula_id": 7
+    },
+    {
+      "zelador_id": 2,
+      "jaula_id": 7
+    },
+    {
+      "zelador_id": 3,
+      "jaula_id": 8
+    },
+    {
+      "zelador_id": 4,
+      "jaula_id": 8
+    },
+    {
+      "zelador_id": 1,
+      "jaula_id": 9
+    },
+    {
+      "zelador_id": 2,
+      "jaula_id": 9
+    },
+    {
+      "zelador_id": 3,
+      "jaula_id": 10
+    },
+    {
+      "zelador_id": 4,
+      "jaula_id": 10
+    }
+  ]
+}
+
+    
